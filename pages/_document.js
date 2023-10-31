@@ -2,9 +2,9 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: "Mohsin Hayat's Resume",
+    title: "Franco Luis Lorenzutti's Resume",
     description:
-      'Mohsin Hayat is a passionate full stack web developer with extensive experience in frontend, backend, automation and scaling of multiple web applications.',
+      'Director of Technology @ Kaiju Capital | DevOps, DataOps',
     image: '/images/Mohsin_DP.jpg'
   }
 
@@ -25,7 +25,7 @@ export default function Document() {
         {/* <!-- Global site tag (gtag.js) - Google Analytics --> */}
         <script
           async
-          src="https://www.googletagmanager.com/gtag/js?id=G-RJJ7FBBKY2"
+          src=""
         ></script>
         <script
           dangerouslySetInnerHTML={{
